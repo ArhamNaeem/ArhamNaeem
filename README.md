@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @ArhamNaeem
-- 👀 I’m interested in full-stack web development, blockchain,  machine learning, data science, competitve coding
-- 🌱 I’m currently learning MERN stack to enchance my web developing skills.
-- 💞️ I’m looking to collaborate on web development, data science project...
-- 📫 How to reach me ... arhamn205@gmail.com
-
+# Hi there, I'm Arham Naeem! 👋
+  
+I'm a Software Engineer passionate about web development, machine learning and data science. Welcome to my GitHub profile!
+  
+🌱 I’m currently learning data science and machine learning.
+👯 I’m looking to collaborate on data science projects.
+💬 Ask me about react.js, express.js, mongoDB, machine learning, data science.
 
 ## 🚀 Skills & Technologies
 
