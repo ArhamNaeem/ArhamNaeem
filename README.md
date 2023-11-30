@@ -3,7 +3,9 @@
 I'm a Software Engineer passionate about web development, machine learning and data science. Welcome to my GitHub profile!
   
 🌱 I’m currently learning data science and machine learning.
+
 👯 I’m looking to collaborate on data science projects.
+
 💬 Ask me about react.js, express.js, mongoDB, machine learning, data science.
 
 ## 🚀 Skills & Technologies
